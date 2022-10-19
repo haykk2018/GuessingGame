@@ -1,4 +1,4 @@
-# GuessingGame - descttop app
+# GuessingGame - descttop app(Пэйн Брайсон)
 
 >GuessingGame work by Swing libs (Swing is a GUI widget toolkit for Java)
 
